@@ -1,0 +1,73 @@
+
+
+.input-icon {
+  position: relative;
+}
+
+.input-icon .svg-inline--fa {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.input-icon input {
+  padding-left: 50px;
+}
+
+.my-input {
+  border: 2px solid #ccc;
+  border-radius: 14px;
+  font-size: 16px;
+  background-clip: padding-box; /* This makes the background only behind the content, not the border */
+  box-shadow: inset 0 0 0 3px white; /* This creates the border */
+}
+
+.my-input:focus {
+  border-color: #5aa6fa;
+  outline: none;
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+.btn {
+  border: 1px solid white;
+  color: white;
+  
+
+}
+
+.btn:hover {
+  background-image: linear-gradient(to top, #5aa6fa, #9b5afe, #fb1b59);
+  border: none;
+  color: white;
+  transition: background-image 0.3s ease;
+  
+}
+
+.text-right {
+  text-align: right;
+}
+
+.forgot-password a {
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.label-left {
+  float: left;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-cancel {
+  flex: 0.4;
+}
+
+.btn-change {
+  flex: 0.6;
+}
+
+
