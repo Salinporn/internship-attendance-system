@@ -1,1 +1,1 @@
-# wd-sql
+# Internship Attendance System
