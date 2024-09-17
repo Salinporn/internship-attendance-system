@@ -4,7 +4,7 @@
 The Internship Attendance System is a comprehensive web application developed to streamline the management of internship attendance, leave requests, and time adjustments. This project significantly enhances operational efficiency by providing a robust platform for both interns and administrators to manage and track various aspects of the internship program.
 
 ## 🔍 **Project Overview**  
-Originally started by a previous intern, this project was extended and enhanced during my internship. My contributions included implementing additional features, improving the design, fixing bugs, and deploying the application. I had permission from my supervisor to make the code public for my internship application period.
+Originally started by a previous intern, this project was extended and enhanced during my internship. My contributions included implementing additional features, improving the design, fixing bugs, and deploying the application. I had permission from my supervisor to make the code public during my internship application period.
 
 ## 📚 My Responsibilities for this project
 
